@@ -18,6 +18,10 @@
 #home {
     background-image: url("../images/lemons.jpg");
 }
+/** BG Image */
+#turing {
+    background-image: url("../images/alan-turing.jpg");
+}
 
 /** BG Parallax */
 #home-bg-parallax > .bg-parallax {
