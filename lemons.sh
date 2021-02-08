@@ -1,8 +1,8 @@
 #!/bin/bash
 
-V1=( "take a perfect beer" "now add perfect day" "murder hornet joins?" )
+V1=( "take a perfect beer" "add a perfect day" "murder hornet joins?" )
 
-V2=( "add a lemon? it's ruined" "if a fly spoils the moment?" "I'm reaching for glasses and" )
+V2=( "slice of lemon? it's ruined" "if a fly spoils the moment?" "I'm reaching for glasses and" )
 
 V3=( "tip the glass over" "no problem at all" "hoping for lemons" )
 

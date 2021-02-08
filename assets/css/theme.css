@@ -799,7 +799,7 @@ a[href^=tel] {
     letter-spacing: 15px;
 }
 .font-quote {
-    font-family: "Montserrat", sans-serif !important;
+    font-family: 'JetBrains Mono', monospace;
     font-style: italic;
 }
 /*
