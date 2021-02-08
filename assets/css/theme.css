@@ -56,6 +56,9 @@ a[href^=tel] {
 .bg-orange-2 {
     background-color: #f26702 !important;
 }
+.bg-amber {
+    background-color: #83794e !important;
+}
 .bg-pink {
     background-color: #ff1a56 !important;
 }
@@ -721,13 +724,51 @@ a[href^=tel] {
     color: #ffffff;
 }
 
+.fuzzball {
+    font-size: 18px;
+    color: #000000;
+    text-align: left;
+    -webkit-animation: fuzzball 5s ease-in-out infinite alternate;
+    -moz-animation: fuzzball 5s ease-in-out infinite alternate;
+    animation: fuzzball 5s ease-in-out infinite alternate;
+  }
+  
+  @-webkit-keyframes fuzzball {
+    from {
+      text-shadow: 0 0 10px rgb(138, 136, 136), 0 0 15px rgb(138, 136, 136), 0 0 20px #DA724F, 0 0 25px #DA724F, 0 0 30px #DA724F, 0 0 35px #DA724F, 0 0 40px #DA724F;
+    }
+    
+    to {
+      text-shadow: 0 0 15px rgb(138, 136, 136), 0 0 20px #DAB74F, 0 0 25px #DAB74F, 0 0 30px #DAB74F, 0 0 35px #DAB74F, 0 0 40px #DAB74F, 0 0 45px #DAB74F;
+    }
+  }  
+.fuzzy {
+    font-size: 45px;
+    color: #fff;
+    text-align: center;
+    -webkit-animation: fuzzy 3s ease-in-out infinite alternate;
+    -moz-animation: fuzzy 3s ease-in-out infinite alternate;
+    animation: fuzzy 3s ease-in-out infinite alternate;
+  }
+  
+  @-webkit-keyframes fuzzy {
+    from {
+      text-shadow: 0 0 10px rgb(138, 136, 136), 0 0 15px rgb(138, 136, 136), 0 0 20px #DA724F, 0 0 25px #DA724F, 0 0 30px #DA724F, 0 0 35px #DA724F, 0 0 40px #DA724F;
+    }
+    
+    to {
+      text-shadow: 0 0 15px rgb(138, 136, 136), 0 0 20px #DAB74F, 0 0 25px #DAB74F, 0 0 30px #DAB74F, 0 0 35px #DAB74F, 0 0 40px #DAB74F, 0 0 45px #DAB74F;
+    }
+  }
+
+
 .glow {
     font-size: 80px;
     color: #fff;
     text-align: center;
-    -webkit-animation: glow 1s ease-in-out infinite alternate;
-    -moz-animation: glow 1s ease-in-out infinite alternate;
-    animation: glow 1s ease-in-out infinite alternate;
+    -webkit-animation: glow 3s ease-in-out infinite alternate;
+    -moz-animation: glow 3s ease-in-out infinite alternate;
+    animation: glow 3s ease-in-out infinite alternate;
   }
   
   @-webkit-keyframes glow {
