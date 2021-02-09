@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/cypherhat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cypherhat.me
+  * I am cypherhat (https://keybase.io/cypherhat) on keybase.
+  * I have a public key ASB4-_LsY9ImCR1--kuWJF0YAF1WOdMJfOLdmfQp5ln1SAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012053d84868c5b5a9a3845ff9953329bdfd732e1766d6d3ea1f92c3006817a1ebce0a",
+      "host": "keybase.io",
+      "kid": "012078fbf2ec63d226091d7efa4b96245d18005d5639d3097ce2dd99f429e659f5480a",
+      "uid": "ec61be7ebf8182ba4dd054c6c1dc7019",
+      "username": "cypherhat"
+    },
+    "merkle_root": {
+      "ctime": 1612903211,
+      "hash": "07b67b703d2cbee65a48eb8cdcbedaf1d009462eefb2e21234824e00c1476d0217ca5ba61d10adb747a0c431f59b8dd85ee96bfb9eb29d1dda0d9c53f5576526",
+      "hash_meta": "f36440c09e4e02bebb1e7bc6199d61ea6407d9d2ea7538a186b0df328fb209ac",
+      "seqno": 19062472
+    },
+    "service": {
+      "entropy": "LVt+dpqJ4eE2JQSMXrgTF2Zv",
+      "hostname": "cypherhat.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1612903254,
+  "expire_in": 504576000,
+  "prev": "5e5e4e59ed09d1999d04cfb08944a8797031fdd76e11153bd2f40cb719f76de9",
+  "seqno": 67,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgePvy7GPSJgkdfvpLliRdGABdVjnTCXzi3Zn0KeZZ9UgKp3BheWxvYWTESpcCQ8QgXl5OWe0J0ZmdBM+wiUSoeXAx/dduERU70vQMtxn3benEIITChw4WrFkIF6sg17n6e3WI+9wquS4Ak8naRNYCMCD9AgHCo3NpZ8RAcJFuHJtvSZJK3urgJsKCcW0zCrIlo+deLuKN9Ow7MzQX6QQvoukwoE3RQppIeafFxf7fZWiAaLmyfnnh0F/6D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKoCGxc+0WJqNlJ77J0ejFRvm8JCqxIiJPAOgyhMlV6po3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cypherhat
+
+==================================================================
