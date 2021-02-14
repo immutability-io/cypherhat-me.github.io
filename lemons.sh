@@ -1,7 +1,7 @@
 #!/bin/bash
 
 V1=( "take a perfect beer" "take a perfect day" "add one fine hornet" )
-V2=( "if you add lemon? ruin" "and if a fly tries to join?" "i'm damning past choices and" )
+V2=( "if you add lemon? ruin" "and if a fly tries to join?" "i'm past damning choices and" )
 V3=( "just tip it over." "no problem at all" "hoping for lemons" )
 
 x=0
