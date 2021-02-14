@@ -1,8 +1,8 @@
 #!/bin/bash
 
-V1=( "take a perfect beer" "add a perfect day" "murder hornet joins?" )
-V2=( "slice of lemon? it's ruined" "if a fly spoils the moment?" "I'm reaching for glasses and" )
-V3=( "tip the glass over" "no problem at all" "hoping for lemons" )
+V1=( "take a perfect beer" "take a perfect day" "add one fine hornet" )
+V2=( "if you add lemon? ruin" "and if a fly tries to join?" "i'm damning past choices and" )
+V3=( "just tip it over." "no problem at all" "hoping for lemons" )
 
 x=0
 echo "✦✦✦✦✦ a senryū ✦✦✦✦✦"
